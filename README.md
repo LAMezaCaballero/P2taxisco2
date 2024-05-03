@@ -54,7 +54,7 @@ Charging Station Distribution US and Canada
 Datasets y fuentes complementarias
 "Los datos son extraídos de las recolecciones hechas por NYC Taxi and Limousine Commission y otros organismos de NYC. Brinda información sobre cada viaje, los Boroughs, dónde esta cada sensor de sonido / calidad del aire, emisiones de CO2 generales entre otros datos que pueden expandir y buscar datasets alternativos o más actualizados si así lo desean (siempre y cuando puedan cumplir con lo propuesto).​​
 
-Fuente data de viajes
+Fuente data de viajes.- https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 Datos de Transporte Publico
 
