@@ -56,21 +56,25 @@ Datasets y fuentes complementarias
 
 Fuente data de viajes.- https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
-Datos de Transporte Publico
+Datos de Transporte Publico https://developers.google.com/transit?hl=es-419
 
-Historical Weather API
+Historical Weather API https://open-meteo.com/en/docs/historical-weather-api
 
-API's de las condiciones climáticas
+API's de las condiciones climáticas https://openweathermap.org/api
 
-Dataset de Kaggle sobre emisiones de co2 por pais y año, con ajustes por población
+Dataset de Kaggle sobre emisiones de co2 por pais y año, con ajustes por población 
+https://www.kaggle.com/datasets/lobosi/c02-emission-by-countrys-grouth-and-population
 
-Dataset de los sonidos recolectados en NYC
+Dataset de los sonidos recolectados en NYC 
+https://zenodo.org/records/3966543
 
 Dataset de la calidad del aire de NYC
+https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r/about_data
 
-Que es un Borough?
+Que es un Borough? https://en.wikipedia.org/wiki/Boroughs_of_New_York_City
 
 Fuel consumption raitings
+https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-auto-6
 
 Archivo de zonas de NYC --> taxi+_zone_lookup.csv
 
